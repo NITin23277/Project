@@ -1,0 +1,46 @@
+/* *{
+    background-color: rgb(110, 110, 150);
+} */
+
+.heading{
+    width: 100% ;
+    display: flex;
+    background-color: black;
+    padding-block:40px ;
+    margin-bottom: 20px;
+}
+.all-news {
+    width: 80% ;
+    margin-inline: auto;
+    /* margin-block: 40px; */
+}
+.taza {
+    display: inline;
+    color: white;
+    margin-left: 20px;
+}
+.khabre {
+    display: inline;
+    color: rgb(244, 15, 141);
+}
+
+form {
+    display: flex;
+    gap: 4px;
+}
+.query-input {
+    width: 100%;
+    margin-block: auto;
+    padding: 20px;
+    font-size: 1rem;
+    border: 2px solid black;
+
+}
+
+.btn-submit {
+    
+    color: white;
+    margin-block: auto;
+    padding: 10px ;
+    background-color: rgb(244, 15, 141);
+}
